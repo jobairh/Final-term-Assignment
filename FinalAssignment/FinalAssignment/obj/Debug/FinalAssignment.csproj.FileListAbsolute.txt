@@ -1,0 +1,12 @@
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csprojAssemblyReference.cache
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.Properties.Resources.resources
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.Views.BookSearch.resources
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.Views.NewBookAdd.resources
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.GenerateResource.cache
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CoreCompileInputs.cache
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe.config
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.pdb
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.exe
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.pdb
+H:\OOP2 Fall 20-21\code practice\Final-term Assignment\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.Views.BookDetails.resources
